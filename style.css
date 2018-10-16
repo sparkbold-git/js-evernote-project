@@ -1,0 +1,12 @@
+#left {
+  width: 200px;
+  float: left;
+  background-color: lightblue;
+  padding: 15px;
+}
+
+#right {
+  margin: auto;
+  padding: 15px;
+  text-align: center;
+}
